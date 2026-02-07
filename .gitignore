@@ -1,0 +1,35 @@
+# --- Python & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter Notebooks ---
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Dati ---
+
+data/raw/housing.csv
+
+data/**/*.csv
+data/**/*.xlsx
+
+
+# --- IDE & Editor ---
+
+.vscode/
+.idea/
+
+# --- Sistema Operativo ---
+
+# Windows
+Thumbs.db
+ehthumbs.db
