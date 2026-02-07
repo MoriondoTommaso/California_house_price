@@ -58,10 +58,10 @@ The Linear Regression model significantly outperformed the baseline, validating 
 | **R^2 Score** | 0.00 | **0.62** |
 | **RMSE** | ~$98,435 | **~$60,629** |
 
-> **Insight:** The model explains approximately **62% of the variance** in housing prices. While a good start for a linear model, there is room for improvement using non-linear models (e.g., Random Forest or XGBoost).
+ **Insight:** The model explains approximately **62% of the variance** in housing prices. While a good start for a linear model, there is room for improvement using non-linear models (e.g., Random Forest or XGBoost).
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python 3.12.4**
 * **Pandas & NumPy:** Data manipulation and vectorization.
