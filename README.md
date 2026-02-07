@@ -55,7 +55,7 @@ The Linear Regression model significantly outperformed the baseline, validating 
 
 | Metric | Baseline (Mean Predictor) | Linear Regression Model |
 | --- | --- | --- |
-| **Score** | 0.00 | **0.62** |
+| **R^2 Score** | 0.00 | **0.62** |
 | **RMSE** | ~$98,435 | **~$60,629** |
 
 > **Insight:** The model explains approximately **62% of the variance** in housing prices. While a good start for a linear model, there is room for improvement using non-linear models (e.g., Random Forest or XGBoost).
